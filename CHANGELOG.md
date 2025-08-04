@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.1](https://github.com/zmkfirmware/zmk/compare/v0.3.0...v0.3.1) (2025-08-04)
+
+
+### Bug Fixes
+
+* **ci:** Fix release please template bump ([#3021](https://github.com/zmkfirmware/zmk/issues/3021)) ([f3233c1](https://github.com/zmkfirmware/zmk/commit/f3233c1b60e4cb4c095572740bcbcaf7111eb804))
+* **docs:** Tweak layer tap example to be clearer ([#3023](https://github.com/zmkfirmware/zmk/issues/3023)) ([919bce7](https://github.com/zmkfirmware/zmk/commit/919bce7962db78139415ccf0e80fb858c89adb3d))
+
 ## [0.3.0](https://github.com/zmkfirmware/zmk/compare/v0.2.1...v0.3.0) (2025-08-01)
 
 
