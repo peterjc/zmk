@@ -24,13 +24,18 @@ again.
 ### Behavior Binding
 
 - Reference: `&mo`
-- Parameter: The layer number to enable while held, e.g. `1`
+- Parameter: The layer number to enable while held, e.g. `3`
 
 Example:
 
 ```dts
 &mo 3
 ```
+
+:::tip
+Since higher-numbered layers are processed first, a `mo` should generally have a higher
+number than the layer it is called from (see note above).
+:::
 
 ## Layer-Tap
 
